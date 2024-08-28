@@ -2,7 +2,6 @@
 #Modularização, Reúso de Código, Legibilidade
 
 # def mensagem ():
-#     print('Bóson Treinamentos em Tecnologia')
 #     print('Curso Completo de Python.')
 
 # mensagem()
